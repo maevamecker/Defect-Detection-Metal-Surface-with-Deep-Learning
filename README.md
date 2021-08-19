@@ -1,6 +1,10 @@
 # Defect-Detection-Metal-Surface-with-Deep-Learning
 
-This [jupyter notebook](https://github.com/maevamecker/Defect-Detection-Metal-Surface-with-Deep-Learning/blob/master/.ipynb_checkpoints/ExampleNotebook-checkpoint.ipynb) presents an use case of applying neural networks to classify defects
+This [jupyter notebook](https://github.com/maevamecker/Defect-Detection-Metal-Surface-with-Deep-Learning/blob/master/.ipynb_checkpoints/ExampleNotebook-checkpoint.ipynb) presents an use case of applying neural networks to classify defects.
+
+
+![webops-9619-fig1-defect-samples-781029](https://user-images.githubusercontent.com/77848994/130051591-8ad3eb72-3c62-4a21-b732-0d171a509759.jpeg)
+
 
 In a huge number of industries the process of quality check for final product is not always reliable and prone to error when it is done by human. For this reason, we can use machine learning algorithms to detect and classify a defect on a surface. This system exists already in the automotive and aeronautic industry. Here we will use the algorithms to detect defaut on metallic surface. This model associated to a visual sensor could help to improve quality on the production line.
 
